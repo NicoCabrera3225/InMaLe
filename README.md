@@ -1,5 +1,5 @@
 # InMaLe
-Necessary stuff for machine learning
+Necessary stuff for machine learning.
 Curso introductorio a machine learning, se comenzará estudiando conceptos matematicos básicos para el entendimiento de los algoritmos de machine learning.
 Todos los recursos libros y articulos los iré subiendo en este repositorio.
 el curso constará de tres partes:
